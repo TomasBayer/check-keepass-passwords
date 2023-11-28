@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "check-keepass-passwords"
 version = "0.1"
-description = ""
+description = "A command-line tool that scans Keepass 2.x databases for weak or compromised passwords"
 authors = ["Tomas Bayer <mail@tomas.berlin>"]
 readme = "README.md"
 license = "MIT"

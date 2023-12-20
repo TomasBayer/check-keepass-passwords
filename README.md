@@ -1,5 +1,8 @@
 # check-keepass-passwords
 
+[![PyPI - Version](https://img.shields.io/pypi/v/check-keepass-passwords)](https://pypi.org/project/check-keepass-passwords/)
+
+
 `check-keepass-passwords` is a command-line tool that scans Keepass 2.x databases for weak or compromised passwords.
 
 ## Quick Navigation
